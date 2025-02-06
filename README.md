@@ -16,8 +16,8 @@ This is a **YouTube Clone** built using **HTML & CSS** as my first real project.
 2. Open youtube.html in your browser.
 
 ## 🛠 Technologies Used
-*HTML5 for structuring the webpage.
-*CSS3 for styling and layout.
+HTML5 for structuring the webpage
+CSS3 for styling and layout
 
 ## 📷 Screenshots
 ![YouTube Clone Screenshot](project-screenshots/screenshot1.png)
