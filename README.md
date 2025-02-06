@@ -13,7 +13,7 @@ This is a **YouTube Clone** built using **HTML & CSS** as my first real project.
    ```sh
    git clone https://github.com/zarlish13/YouTube-clone-using-HTML-and-CSS.git
 
-2. Open index.html in your browser.
+2. Open youtube.html in your browser.
 
 ## 🛠 Technologies Used
 HTML5 for structuring the webpage
