@@ -20,7 +20,8 @@ HTML5 for structuring the webpage
 CSS3 for styling and layout
 
 ## 📷 Screenshots
-
+![YouTube Clone Screenshot](project-screenshots/screenshot1.png)
+![YouTube Clone Screenshot](project-screenshots/screenshot2.png)
 
 
 ## 👩‍💻 Author
